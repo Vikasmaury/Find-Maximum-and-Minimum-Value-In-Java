@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.Scanner;
 class Maximum
 {
 	public static void main(String[] args) {
@@ -8,7 +8,7 @@ class Maximum
 		int size = sc.nextInt();
 		int[] a = new int[size];
 
-		System.out.println("                Enter "+size+" Number");
+		System.out.println("Enter "+size+" Number");
 		System.out.println();
 		for(int i = 0; i<size; i++)
 	 	{
