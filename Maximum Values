@@ -26,3 +26,15 @@ class Maximum
 		System.out.print(" Maximum Number Is "+max);	
 }
 }		
+
+
+#python code
+a_list = [5, 2, 7, 6, 3, 1, 9]
+
+maximum = max(a_list)
+print(maximum)
+
+
+#python code for finding minimum
+minimum = min(a_list)
+print(minimum)
